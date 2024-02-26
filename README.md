@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Toshideveloper/login-page">
+  <a href="https://github.com/Toshideveloper/">
     <img src="" alt="Logo" width="80" height="80">
   </a>
 

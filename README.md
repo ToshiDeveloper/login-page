@@ -1,8 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Toshideveloper/">
-    <img src="" alt="" width="80" height="80">
-  </a>
 
   <h3 align="center">Login-page</h3>
 
@@ -27,10 +24,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Toshidevelop
 
 ## Authors
 
-* **Toshideveloper** - ** - [Toshideveloper](https://github.com/ToshiDeveloper/) - **
+* **Toshideveloper** - **[Toshideveloper](https://github.com/ToshiDeveloper/)**
 
-## Acknowledgements
-
-* []()
-* []()
-* []()
